@@ -25,7 +25,7 @@ npm install
 ```bash
 npm start or expo start
 ```
-#Install on a test device 
+# Install on a test device 
 
 Scan this code with a device
 Open the Camera app and point it at this code. Then tap the notification that appears.
