@@ -27,7 +27,7 @@ npm start or expo start
 ```
 # Install on a test device 
 
-Scan this code with a device
+__Scan this code with a device__
 Open the Camera app and point it at this code. Then tap the notification that appears.
 
 ![Alt Text](https://raw.githubusercontent.com/MuntasirArafat/Bkash-LongpressButton/main/assets/qr.png)
