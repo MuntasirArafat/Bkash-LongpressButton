@@ -30,6 +30,7 @@ npm start or expo start
 Scan this code with a device
 Open the Camera app and point it at this code. Then tap the notification that appears.
 
+![Alt Text](https://raw.githubusercontent.com/MuntasirArafat/Bkash-LongpressButton/main/assets/qr.png)
 
 
 # How to install this build on Android
