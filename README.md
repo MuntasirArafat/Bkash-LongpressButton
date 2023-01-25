@@ -3,7 +3,7 @@
 
 # Bkash-LongpressButton
 You need to  use the Expo CLI (Command Line Interface) tool. Here are the steps to create a the project:
-<p style="color: red">__Note:__ I did't use any third party components so you can use same codes in __React navive cli__ </p>
+__Note:__ I did't use any third party components so you can use same codes in __React navive cli__
 
 * Clone the repositories from __Github__
 ```bash
