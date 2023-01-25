@@ -41,3 +41,8 @@ Open the Camera app and point it at this code. Then tap the notification that ap
 __Send a link to a device__
 
 Send and open the URL below to install it on a device.
+
+
+```bash
+https://expo.dev/accounts/muntasir/projects/payment/builds/b8255d6d-622a-4c92-9e93-1fcfa4f4512d
+```
