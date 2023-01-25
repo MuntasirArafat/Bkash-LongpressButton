@@ -4,28 +4,28 @@
 # Bkash-LongpressButton
 You need to  use the Expo CLI (Command Line Interface) tool. Here are the steps to create a the project:
 
-1.Clone the repositories from __Github__
+* Clone the repositories from __Github__
 ```bash
 git clone https://github.com/MuntasirArafat/Bkash-LongpressButton
 ```
 
-2.Select your project file 
+* Select your project file 
 ```bash
 cd Bkash-LongpressButton
 ```
-3.if you have already expo-cli installed on your system  then no need to follow this step
+* if you have already expo-cli installed on your system  then no need to follow this step
 
 ```bash
 npm install -g expo-cli
 ```
 
-4. install __node__ in your projest 
+* install __node__ in your projest 
 
 ```bash
 npm install
 ```
 
-5.All set ! you are ready to go 
+* All set ! you are ready to go 
 
 ```bash
 npm start or expo start
