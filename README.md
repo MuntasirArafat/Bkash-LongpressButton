@@ -13,6 +13,11 @@ git clone https://github.com/MuntasirArafat/Bkash-LongpressButton
 cd Bkash-LongpressButton
 ```
 
+
+```bash
+npm install -g expo-cli
+```
+
 ```bash
 npm install
 ```
